@@ -1,4 +1,4 @@
-# Decentralized Twitter
+# Decentralized Tweeting App
 
 To run:
 
